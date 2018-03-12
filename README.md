@@ -16,10 +16,10 @@ You need to install the software below:
 
 
 ```
-git clone git@gitlab.com:shevn/shevn-mobile.git
+git clone git@github.com:Garulth/react-mobile-starter.git
 ```
 ```
-cd shevn-mobile
+cd react-mobile-starter
 ```
 ```
 yarn install
