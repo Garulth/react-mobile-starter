@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_e34d76ac634322ca6c9518b42362c19399ebf389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bfd7e4891bc7293a80ebd99f939e3b899e8e36a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_529cbd1b342b82b1be3e6f7054bc2848b037355f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_73fc6c22eafe5d14ee16e0924c39972475c689d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_94cd4d50979fd2c6fc8c98f7574dadfb73e80f70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_c113069cadbb229465be47a94706dd50127ec132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_ac914d2aeadd73275c0b6de43a5cf5a1e1683e18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_639df5a43cf9d81ad412788fe0632a3353c33190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_5654e3d09a383162cf4b31a13634d5172df075b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_22e746cbe19997e2c9814d7393861fc97884f6cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_9082f529c059ac13115747cb21610003dac9be7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_914dad8e6a2fdeab34a548a9b77a6fc6739501a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_81def15d16631b9ba8e8bcab98f36850a2a1b3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_f9e874742b0839d0b9848a9c76e367e20404c3d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_4d79f5d45192aaec0a5e7ec8b1c8dd1b4d20e0e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_55905e7fdd312a0d3e11dafc6901ef10a0aa96d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_a64f436efcbeeb199ce9877dc39bafd4b4a0174f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_28deddfa9c18928e0940fc61af867ba8061ebfd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_17e49d12242da703070eba8807ce46130d674664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_805900a163bf7aea2ec1d03a798c1149fd67d4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_488321bedfb2578bb3a6d470c6f249b1653f4410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2e9af9272dbc9bcb5d28a4bc3f7daf9c725b603d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_275b8a4540eeab40dbcb5d95149a7fccc33607dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_751368b71e71a8576b40e4b7035ec10899d04925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_b54f85f2c51a6af2b993f0d1eedd46f8f89d2b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_84e4cfcfc2c663209140236490eb611f9c907d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2656f91433029fad04e69ed4bb6fe9198d6f4153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/sheVN/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/sheVN-react-native-vector-icons-unspecified_e05a792529e5add6fe940db1dbba9c3174df01bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_0c60ff72c9678b2a072c916a5e2b0aea70c25da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_3e8aab0c5ccca7ac246c0590649398146068e664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f5089d57ebdf42ad47ef24ddc695b460fd82fa22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_e781542cd73abe757bbcf26391d2d96e7dc171f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/hieule/Sources/SheVN/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_449babe48c3a428773a30b65cab097416c7b5a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_01637d8f766297219d765677c19cb09df9d6daf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hieule/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/hieule/Sources/shevn-mobile/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2ada599dc9506ec6a9ae691a65c95e239e1d6475.jar" />
+    </item>
+
+</items>
